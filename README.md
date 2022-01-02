@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BinayLimbu
+- 👋 Hi, I’m @BinayLimbu, an MSc Comp Sci (Cybersecurity) student
 - 👀 I’m interested in cycling, tinkering, home DIY, music and building PCs.
 - 🌱 I’m currently learning cybersecurity and coding in Python and Java.
 - 💞️ I’m looking to collaborate on everything. I'm here to learn!
